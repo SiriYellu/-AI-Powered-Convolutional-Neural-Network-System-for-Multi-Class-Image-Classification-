@@ -1,0 +1,2 @@
+# -AI-Powered-Convolutional-Neural-Network-System-for-Multi-Class-Image-Classification-
+This project focuses on building an intelligent system that can automatically identify common diseases found on rice leaves by analyzing simple images. Using a deep convolutional neural network, the model learns to recognize visual patterns associated with three major diseases: Bacterial Blight, Brown Spot, and Leaf Smut. 
